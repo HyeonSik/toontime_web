@@ -1,0 +1,943 @@
+
+/** ************************* **/
+/**  styles  by SIC           **/
+/** ************************* **/
+@font-face{
+			font-family:'haha';
+			src:url('NanumBarunGothic.ttf') format("truetype");}
+
+
+.fr_header {
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding-top: 16em;
+  padding-bottom: 3em;
+  background-image: url(../images/thumbnail/t.jpg_1024x500.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 39.75em
+}
+.fr_be-creative {
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  background-color: #fbfbfb;
+  min-height: 28.3125em
+}
+.fr_rilego {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: haha;
+  font-weight: 600;
+  font-size: 2.7em;
+  line-height: 1.15em;
+  text-align: center;
+  letter-spacing: 0 em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 1.0064516375141759em;
+  margin-left: auto;
+  padding-right: 0;
+  padding-left: 0;
+  color: #cc0033;
+  clear: none;
+  min-height: 1.3225806451612903em;
+  max-width: 18em
+}
+.fr_rilego .fr-text {
+  min-width: 100%
+}
+.fr_author {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Lato;
+  font-weight: 300;
+  font-size: .65em;
+  text-align: center;
+  letter-spacing: .25em;
+  margin-top: 21.26em;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: 8.47%;
+  color: #9ea8ae;
+  min-height: 1.2em
+}
+.fr_author .fr-text {
+  min-width: 100%
+}
+.fr_quote {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-top: 6em;
+  padding-right: 6em;
+  padding-bottom: 6em;
+  padding-left: 6em;
+  background-color: black;
+  background-image: url(../images/thumbnail/1540371-262954983905000-6844559684287916539-o.jpg_1920x1080.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 14.125em;
+}
+.fr_three-things-for-you-to-try-out {
+  display: block;
+  margin-top: -0.0625em;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-top: 5em;
+  padding-bottom: 2em;
+  background-color: white;
+  min-height: 39.6875em
+}
+.fr_kapola {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.06em;
+  line-height: 1.5em;
+  text-align: center;
+  margin-top: 1.1792452830188678em;
+  margin-right: auto;
+  margin-bottom: 1em;
+  margin-left: auto;
+  color: #686766;
+  max-width: 600px
+}
+.fr_kapola .fr-text {
+  min-width: 100%
+}
+.fr_lenidu {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: .8em;
+  line-height: 1.4em;
+  text-align: center;
+  letter-spacing: .4em;
+  vertical-align: top;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  color: #f4a77d;
+  min-height: 1.3076923076923077em;
+  max-width: 600px
+}
+.fr_lenidu .fr-text {
+  min-width: 100%
+}
+.fr_vebopa {
+  padding-top: 1px;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0
+}
+.fr_wovaha {
+  float: none;
+  display: block;
+  width: 180px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto
+}
+.fr_rakoso {
+  float: none;
+  display: block;
+  width: 180px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto
+}
+.fr_vedido {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.06em;
+  line-height: 1.5em;
+  text-align: center;
+  margin-top: 1.1792452830188678em;
+  margin-right: auto;
+  margin-bottom: 1em;
+  margin-left: auto;
+  color: #686766;
+  max-width: 600px
+}
+.fr_vedido .fr-text {
+  min-width: 100%
+}
+.fr_butilo {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: .8em;
+  line-height: 1.4em;
+  text-align: center;
+  letter-spacing: .4em;
+  vertical-align: top;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  color: #f4a77d;
+  min-height: 1.3076923076923077em;
+  max-width: 600px
+}
+.fr_butilo .fr-text {
+  min-width: 100%
+}
+.fr_wuvubo {
+  float: none;
+  display: block;
+  width: 180px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto
+}
+.fr_rosigi {
+  padding-top: 1px;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0
+}
+.fr_degave {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: .8em;
+  line-height: 1.4em;
+  text-align: center;
+  letter-spacing: .4em;
+  vertical-align: top;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  color: #f4a77d;
+  min-height: 1.3076923076923077em;
+  max-width: 600px
+}
+.fr_degave .fr-text {
+  min-width: 100%
+}
+.fr_mebafi {
+  float: none;
+  display: block;
+  width: 90%;
+  margin-top: 3.5625em;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding-top: 1px;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  max-width: 900px
+}
+.fr_mebafi>.fr-widget:nth-child(3n+1) {
+  margin-top: .6em;
+  margin-right: 1%;
+  margin-bottom: .6em;
+  margin-left: 1%;
+  width: 31.3333333333%;
+  clear: left;
+  max-width: inherit
+}
+.fr_mebafi>.fr-widget:nth-child(3n+2) {
+  margin-top: .6em;
+  margin-right: 1%;
+  margin-bottom: .6em;
+  margin-left: 1%;
+  width: 31.3333333333%;
+  clear: none;
+  max-width: inherit
+}
+.fr_mebafi>.fr-widget:nth-child(3n+3) {
+  margin-top: .6em;
+  margin-right: 1%;
+  margin-bottom: .6em;
+  margin-left: 1%;
+  width: 31.3333333333%;
+  clear: none;
+  max-width: inherit
+}
+.fr_nigeke {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.06em;
+  line-height: 1.5em;
+  text-align: center;
+  margin-top: 1.1792452830188678em;
+  margin-right: auto;
+  margin-bottom: 1em;
+  margin-left: auto;
+  color: #686766;
+  max-width: 600px
+}
+.fr_nigeke .fr-text {
+  min-width: 100%
+}
+.fr_dalega {
+  padding-top: 1px;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0
+}
+.fr_guguji {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: haha;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 2.5em;
+  line-height: 1.15em;
+  text-align: center;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: .5em;
+  margin-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  color: black;
+  min-height: 1.275em
+}
+.fr_guguji .fr-text {
+  min-width: 100%
+}
+.fr_bomoge {
+  float: none;
+  display: block;
+  width: 15em;
+  font-family: haha;
+  font-weight: 500;
+  font-size: .9em;
+  text-align: center;
+  letter-spacing: .05em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding-top: .6em;
+  padding-right: .6em;
+  padding-bottom: .6em;
+  padding-left: .6em;
+  color: black;
+  border: 1px solid black;
+  min-height: 1.35em;
+  border-radius: .3em
+}
+.fr_bomoge .fr-text {
+  min-width: 100%
+}
+.fr_bileke {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.4em;
+  text-align: center;
+  margin-right: auto;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+  color: black
+}
+.fr_bileke .fr-text {
+  min-width: 100%
+}
+.fr_cefici {
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  background-color: #f4a77d;
+  min-height: 15.0625em
+}
+.fr_moboda {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: haha;
+  font-weight: 600;
+  font-size: 2.7em;
+  line-height: 1.15em;
+  text-align: center;
+  letter-spacing: 0 em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 1.0064516375141759em;
+  margin-left: auto;
+  padding-right: 0;
+  padding-left: 0;
+  color: #cc0033;
+  clear: none;
+  min-height: 1.3225806451612903em;
+  max-width: 18em
+}
+.fr_moboda .fr-text {
+  min-width: 100%
+}
+.fr_watch-tutorial {
+  float: none;
+  display: block;
+  width: 14.715596353606713%;
+  font-family: haha;
+  font-size: .95em;
+  text-align: center;
+  letter-spacing: .2em;
+  vertical-align: top;
+  margin-top: 4.7em;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: 43.02%;
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  color: #cc0033;
+  border: 1px solid #cc0033;
+  min-height: 1.35em;
+  max-width: 18em;
+  border-radius: .3em
+}
+.fr_watch-tutorial .fr-text {
+  min-width: 100%
+}
+.fr_text {
+  float: none;
+  display: block;
+  width: 140.35087719298244%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.06em;
+  line-height: 1.5em;
+  text-align: left;
+  margin-top: .24em;
+  margin-right: auto;
+  margin-bottom: 1em;
+  margin-left: 3.51%;
+  color: #686766;
+  min-height: 1.1764705882352942em;
+  max-width: 600px
+}
+.fr_text .fr-text {
+  min-width: 100%
+}
+.fr_column-two {
+  display: block;
+  padding-top: 1px
+}
+.fr_raseta {
+  float: none;
+  display: block;
+  width: 90%;
+  margin-top: 2.7490234375em;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 8.3125em;
+  max-width: 50em
+}
+.fr_raseta>.fr-widget:nth-child(3n+1) {
+  margin-top: .6em;
+  margin-right: 2.4%;
+  margin-bottom: .6em;
+  margin-left: 2.4%;
+  width: 28.5333333333%;
+  clear: left;
+  max-width: inherit
+}
+.fr_raseta>.fr-widget:nth-child(3n+2) {
+  margin-top: .6em;
+  margin-right: 2.4%;
+  margin-bottom: .6em;
+  margin-left: 2.4%;
+  width: 28.5333333333%;
+  clear: none;
+  max-width: inherit
+}
+.fr_raseta>.fr-widget:nth-child(3n+3) {
+  margin-top: .6em;
+  margin-right: 2.4%;
+  margin-bottom: .6em;
+  margin-left: 2.4%;
+  width: 28.5333333333%;
+  clear: none;
+  max-width: inherit
+}
+.fr_column-one {
+  display: block;
+  padding-top: 1px
+}
+.fr_text- {
+  float: none;
+  display: block;
+  width: 146.53234649122805%;
+  font-family: haha;
+  font-weight: 400;
+  font-size: 1.06em;
+  line-height: 1.5em;
+  text-align: left;
+  margin-top: .94em;
+  margin-right: auto;
+  margin-bottom: 1em;
+  margin-left: 72.72%;
+  padding-top: 1px;
+  color: #686766;
+  min-height: 1.1764705882352942em;
+  max-width: 600px
+}
+.fr_text- .fr-text {
+  min-width: 100%
+}
+@media screen and (max-width: 1025px) {
+  .fr_header {
+    padding-right: 3em;
+    padding-left: 3em
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_rilego {
+    font-size: 2.7em;
+    margin-top: 0;
+    margin-bottom: 1em
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_author {
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    min-height: 1.2em
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_quote {
+    margin-top: -0.0625em;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 4em;
+    min-height: 20em
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_guguji {
+    font-family: haha;
+    font-size: 2.7em;
+    margin-top: 0;
+    padding-right: 0;
+    padding-left: 0
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_bomoge {
+    float: none;
+    display: block;
+    font-family: haha;
+    margin-top: .7222222222222222em;
+    margin-right: auto;
+    margin-bottom: 3em;
+    margin-left: auto
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_bileke {
+    font-family: haha
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_moboda {
+    font-size: 2.7em;
+    margin-top: 0;
+    margin-bottom: 1em
+  }
+}
+@media screen and (max-width: 1025px) {
+  .fr_watch-tutorial {
+    display: block;
+    width: 21.658536585365855%;
+    margin-left: 40.72%;
+    min-height: 3.8666666666666667em
+  }
+  .fr_watch-tutorial .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_header {
+    display: block;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-right: .2em;
+    padding-left: .2em;
+    min-height: 35.375em
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_rilego {
+    float: none;
+    display: block;
+    font-size: 2.7em;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    min-height: 1.2790697674418605em
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_quote {
+    padding-top: 5em
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_lenidu {
+    text-align: center
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_butilo {
+    text-align: center
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_degave {
+    text-align: center
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_mebafi>.fr-widget:nth-child(1n+1) {
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 98.0%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_guguji {
+    font-size: 2.7em;
+    margin-top: 0;
+    margin-right: 0;
+    min-height: 1.069767441860465em
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_moboda {
+    float: none;
+    display: block;
+    font-size: 2.7em;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    min-height: 1.2790697674418605em
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_watch-tutorial {
+    display: block;
+    width: 28.015075376884425%;
+    margin-top: 4.74em;
+    margin-left: 37.94%;
+    min-height: 3.7333333333333334em
+  }
+  .fr_watch-tutorial .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_text {
+    display: block;
+    width: 46.49239369501466%;
+    margin-top: .89em;
+    margin-left: 3.52%
+  }
+  .fr_text .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_raseta>.fr-widget:nth-child(1n+1) {
+    margin-right: 2.4%;
+    margin-left: 2.4%;
+    width: 95.2%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 796px) {
+  .fr_text- {
+    display: block;
+    width: 45.60117302052786%;
+    margin-top: -0.06em;
+    margin-left: 54.4%
+  }
+  .fr_text- .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_header {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-top: 11em;
+    padding-right: 1em;
+    padding-bottom: 4em;
+    padding-left: 1em;
+    min-height: 29.8125em
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_be-creative {
+    padding-bottom: 4em
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_rilego {
+    font-size: 2.7em;
+    line-height: 1em;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_author {
+    font-size: .65em;
+    margin-top: .015625em;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    min-height: 1.6em
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_quote {
+    padding-top: 5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+	background-size:cover;
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_mebafi>.fr-widget:nth-child(1n+1) {
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 98.0%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_moboda {
+    font-size: 2.7em;
+    line-height: 1em;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_watch-tutorial {
+    display: block;
+    width: 46.041666666666664%;
+    margin-left: 27.92%;
+    padding-bottom: 1em;
+    min-height: 4em
+  }
+  .fr_watch-tutorial .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_text {
+    display: block;
+    width: 80.09708737864078%;
+    margin-top: 1.07em;
+    margin-left: 9.42%
+  }
+  .fr_text .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_raseta>.fr-widget:nth-child(1n+1) {
+    margin-right: 2.4%;
+    margin-left: 2.4%;
+    width: 95.2%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 480px) {
+  .fr_text- {
+    display: block;
+    width: 81.31067961165049%;
+    margin-top: 1.36em;
+    margin-left: 9.4%
+  }
+  .fr_text- .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_header {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    padding-top: 6em;
+    min-height: 27.25em
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_rilego {
+    width: auto;
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    min-height: 2.7209302325581395em
+  }
+  .fr_rilego .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_quote {
+    padding-right: 1em;
+    padding-left: 1em
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_three-things-for-you-to-try-out {
+    padding-top: 3em
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_mebafi {
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0
+  }
+  .fr_mebafi>.fr-widget:nth-child(1n+1) {
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 98.0%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_guguji {
+    margin-top: 0;
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 0;
+    min-height: 1.069767441860465em
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_bileke {
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_cefici {
+    padding-top: 3em;
+    padding-bottom: 3em
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_moboda {
+    width: auto;
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    min-height: 2.7209302325581395em
+  }
+  .fr_moboda .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_watch-tutorial {
+    display: block;
+    width: 52.73934478371501%;
+    margin-top: 4.43em;
+    margin-left: 21.02%;
+    min-height: 3.7333333333333334em
+  }
+  .fr_watch-tutorial .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_text {
+    display: block;
+    width: 94.22755934718101%;
+    margin-left: 2.01%
+  }
+  .fr_text .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 393px) {
+  .fr_text- {
+    display: block;
+    width: 91.98813056379822%;
+    margin-left: 2.01%
+  }
+  .fr_text- .fr-text {
+    min-width: 100%
+  }
+}
+@media screen and (max-width: 640px) {
+  .fr_quote {
+    padding-right: 1em;
+    padding-left: 1em
+  }
+}
+
+/** ******************************** **/
+/** End of   SIC  styles             **/
+/** ******************************** **/

@@ -1,0 +1,45 @@
+﻿/** ************************* **/
+/**  styles  by SIC           **/
+/** ************************* **/
+
+			@font-face{
+			font-family:'haha';
+			src:url('NanumBarunGothic.ttf') format("truetype");}
+			
+			body div table tbody tr td {
+			font-family:haha;
+			font-size:2em;
+			}
+			
+			body{
+			background-color:#cc0033;
+			}
+			table{
+			margin:5px;
+			background-position:center;
+			}
+			table tbody{
+			border-collapse: collapse;
+			border-spacing: 0;
+			background-color:#ffffff;
+			}
+			.pic{
+			width:125px;
+			height:100px;
+			}
+			tr td{
+			font-family:haha;
+			font-size:2em;
+			}
+			
+			.title {
+			font-family:haha;
+			font-weight:bold;
+			color:#cc0033;
+			}
+
+
+
+/** ******************************** **/
+/** End of   SIC  styles             **/
+/** ******************************** **/
